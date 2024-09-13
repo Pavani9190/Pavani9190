@@ -2,7 +2,8 @@
 
 
 <div>
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Pavani9190&theme=gotham&show_icons=true"/> <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavani9190&layout=compact">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Pavani9190&theme=gotham&show_icons=true"/> 
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavani9190&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
