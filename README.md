@@ -1,5 +1,16 @@
-## Olá, muito prazer! Sou o Gustavo Pavani, bem-vindo ao meu perfil
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gustavo!;" />
+</h1>
 
+<div  align="center" >
+  - 🔭 Atualmente estou fazendo curso de Desenvolvimento de Sistemas - Senai ...
+  <br>
+- 🌱 Atualmente estou aprendendo python, c++, HTML, Javascript, css ...
+</div>
+
+##
+
+<h2 align="center" >⚡Stats⚡</h2>
 
 <div>
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Pavani9190&theme=gotham&show_icons=true"/> 
@@ -22,3 +33,7 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gutopavani439@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
