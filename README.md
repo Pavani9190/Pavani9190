@@ -13,7 +13,7 @@
 <h2 align="center" >⚡Stats⚡</h2>
 
 <div>
-  <img height="198cm" src="https://github-readme-stats.vercel.app/api?username=Pavani9190&theme=gotham&show_icons=true"/> 
+  <img height="188cm" src="https://github-readme-stats.vercel.app/api?username=Pavani9190&theme=gotham&show_icons=true"/> 
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavani9190&layout=compact">
 </div>
 
