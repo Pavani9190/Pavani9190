@@ -3,9 +3,9 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou fazendo curso de Desenvolvimento de Sistemas - Senai ...
+  - 🔭 Cursando Desenvolvimento de Sistemas - SENAI-SP
   <br>
-- 🌱 Atualmente estou aprendendo python, c++, HTML, Javascript, css, PHP, MySQL, Kotlin ...
+- 🌱 Atualmente estou aprendendo Python, C++, HTML, Javascript, CSS, PHP, MySQL, Kotlin ...
 </div>
 
 ##
