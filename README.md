@@ -3,9 +3,9 @@
 </h1>
 
 <div  align="center" >
-  - 🔭 Cursando Desenvolvimento de Sistemas - SENAI-SP
+  - 🔭 Técnico em Desenvolvimento de Sistemas - SENAI-SP
   <br>
-- 🌱 Atualmente estou aprendendo Python, C++, HTML, Javascript, CSS, PHP, MySQL, Kotlin ...
+- 🌱 Tenho aprendizado em Python (biblioteca Pyautogui, time), C++ (Arduino, esp32 e raspberry), HTML, Javascript, CSS (Bootstrap), PHP, MySQL, Kotlin, NoSQL
 </div>
 
 ##
