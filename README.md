@@ -4,6 +4,7 @@
 
 <div  align="center" >
   - 🔭 Técnico em Desenvolvimento de Sistemas - SENAI-SP
+  <br>
   - 🎓 Estudante de Gestão de T.I e Ciência da Computação
   <br>
 - 🌱 Tenho aprendizado em Python (biblioteca Pyautogui, time), C++ (Arduino, esp32 e raspberry), HTML, Javascript, CSS (Bootstrap), PHP, MySQL, Kotlin, NoSQL
