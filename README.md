@@ -3,6 +3,8 @@
 </h1>
 
 <div  align="center" >
+  -  Dev Full Stack do Polo Tecnológico Cuesta
+  <br>
   - 🔭 Técnico em Desenvolvimento de Sistemas - SENAI-SP
   <br>
   - 🎓 Estudante de Gestão de T.I e Ciência da Computação
